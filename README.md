@@ -5,7 +5,7 @@
 
 ```bash
 # Entre no repositório
-$ cd next-level-week-1
+$ cd NLW-Booster
 
 # Instale as dependências dentro do diretório server
 $ cd server
